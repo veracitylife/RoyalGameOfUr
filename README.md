@@ -66,3 +66,4 @@ Google Play Store version coming soon.
 The Royal Game of Ur by Clovis Star.
 
 All rights reserved unless stated otherwise.
+This repository is for official APK distribution only. No source code or open source license is provided. All rights reserved.
